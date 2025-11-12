@@ -1,0 +1,23 @@
+.routeCardField {
+    margin-left: 20px;  
+}
+
+.statusbox {
+    height: 20px;
+    width: 20px;
+    border: 1px solid;
+    background-color: green
+}
+
+.routeCardFeatures {
+     padding : 5px 0px;
+    background-color: rgb(237 236 236);    
+}
+
+.features {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+}
+
+ 

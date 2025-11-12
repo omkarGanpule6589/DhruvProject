@@ -1,0 +1,18 @@
+.konvajs-content{
+    background-color: lightgray;
+   
+    overflow: auto;
+}
+/* Workflow.css */
+.stage-container {
+    width: calc(100vw / 1.2); 
+    height: calc(100vh / 1.3); 
+    overflow: auto;
+    border: 1px solid black; 
+  }
+  
+.yt{
+    background-color: black !important;
+    height: 100px !important;
+    color: black !important;
+}

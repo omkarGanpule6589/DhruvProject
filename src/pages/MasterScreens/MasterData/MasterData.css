@@ -1,0 +1,17 @@
+.myColor{
+    color: blue;
+}
+
+.css-bshv44-MuiButtonBase-root-MuiListItem-root.Mui-selected {
+    background-color: rgb(97, 154, 230) !important;
+}
+.reducefont{
+    .css-10hburv-MuiTypography-root{
+        font-size: 11px;
+        /* font-weight: 550; */
+        
+    }
+    .css-yb0lig{
+        font-size: 11px !important;
+    }
+}

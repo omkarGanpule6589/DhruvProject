@@ -1,0 +1,846 @@
+.actionFooter_Dark{
+    position: fixed;
+     right:  0;
+     bottom: 0;
+     width: 100%;
+     padding: 10px;
+      padding-right: 40px;
+      background-color: #353535;
+      margin-top: 5%;
+      display: flex;
+      justify-content: end;
+      color: white;
+
+      .css-11qr2p8-MuiButtonBase-root-MuiButton-root.Mui-disabled {
+        color: rgb(255 255 255 / 72%);
+        box-shadow: none;
+        background-color: rgb(255 255 255 / 12%);
+    }
+    .css-1k23hlb-MuiButtonBase-root-MuiButton-root {
+   
+        border: 1px solid rgb(255 255 255 / 50%) !important;
+        color: #ffffff !important;
+    }
+    .css-11qr2p8-MuiButtonBase-root-MuiButton-root {
+        color: #212121;
+    background-color: #ffffff;
+    }
+    .css-11qr2p8-MuiButtonBase-root-MuiButton-root:hover {
+        color: #212121;
+        background-color: #ffffff;
+    }
+    .css-k58djc {
+        color: white !important;
+        border: 1px solid rgb(255, 255, 255) !important;
+    }
+    .css-k58djc:hover {
+        color: white !important;
+        border: 1px solid rgb(255, 255, 255) !important;
+    }
+    .css-1lpukdo {
+        color: #212121;
+    background-color: rgb(255, 255, 255) !important;
+    }
+    .css-1lpukdo:hover {
+        color: #212121;
+    background-color: rgb(255, 255, 255) !important;
+    }
+  }
+  
+  .trasactionsidebar_Dark{
+    width: 34vh;
+    overflow-y: auto;
+    height: calc(100vh - 71px);
+    background-color: #212121 !important;
+    z-index: 999; 
+    color: white !important;
+    ::-webkit-scrollbar {
+        background-color: #212121 !important;
+    }
+  }
+
+  
+
+  .mastersidebar_Dark{
+    overflow-y: auto;
+    height: calc(100vh - 71px);
+    width: 22%;
+    background-color: #212121 !important;
+    z-index: 999;
+    color: white !important;
+  }
+  .sidebar_Dark{
+  
+    .MuiDrawer-paper {
+        background-color: #212121 !important;
+        color: white;
+        .css-i4bv87-MuiSvgIcon-root{
+           color: white
+        }
+    }
+    .css-vubbuv {
+        color: white;
+    }
+  }
+  .popuphead_Dark{
+    background-color: black !important;
+              color: #fff !important;
+              padding: 8px 24px !important;
+  }
+  .content_Dark{
+    overflow: auto;
+    height: calc(100vh - 118px) !important;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    width: 100% !important;
+    padding-left: 1%;
+    background-color: #212121;
+    color: white;
+    .css-1086bdv-MuiPaper-root-MuiAccordion-root:first-of-type {
+        background-color: #2a2a2a !important;
+        color: white;
+    }
+    .css-1aj41gs:last-of-type {
+        background-color: #2a2a2a !important;
+        color: white !important;
+    }
+    .css-1h51icj-MuiAutocomplete-root .MuiOutlinedInput-root .MuiAutocomplete-input {
+        color: white;
+    }
+    .css-vubbuv {
+        color: white;
+    }
+    .css-ptkaw2-MuiDataGrid-root.MuiDataGrid-autoHeight {
+        height: auto;
+        color: white;
+    }
+    .css-ptiqhd-MuiSvgIcon-root {
+        color: white;
+    }
+    .css-1d3z3hw-MuiOutlinedInput-notchedOutline{
+        border-color: rgb(255 255 255) !important;
+    }
+    .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+        color: white !important;
+    }
+    .css-sghohy-MuiButtonBase-root-MuiButton-root:hover {
+        color: #212121;
+        background-color: #ffffff;
+    }
+
+.css-rtrcn9-MuiTablePagination-root .MuiTablePagination-selectLabel {
+    display: block;
+    color: white;
+}
+.css-194a1fa-MuiSelect-select-MuiInputBase-input.css-194a1fa-MuiSelect-select-MuiInputBase-input.css-194a1fa-MuiSelect-select-MuiInputBase-input {
+    padding-right: 24px;
+    min-width: 16px;
+    color: white;
+}
+.css-zylse7-MuiButtonBase-root-MuiIconButton-root.Mui-disabled {
+    background-color: transparent;
+    
+    color: white !important;
+}
+.css-levciy-MuiTablePagination-displayedRows {
+    color: white !important;
+    
+}
+.css-pqjvzy-MuiSvgIcon-root-MuiSelect-icon {
+    color: white !important;
+    
+}
+.css-1mf6u8l-MuiSvgIcon-root-MuiSelect-icon {
+    color: white !important;
+   
+}
+.css-1w53k9d-MuiDataGrid-overlay{
+    background-color: #212121 !important;
+}
+.css-i4bv87-MuiSvgIcon-root {
+    color: white !important;
+}
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root:last-of-type {
+  
+    background-color: #3b3737;
+    color: white;
+}
+.css-19qh8xo-MuiInputBase-input-MuiOutlinedInput-input {
+    color: white !important;
+}
+
+.MuiAutocomplete-popper {
+    background-color: #212121 !important; /* Change background color */
+    color: #FFFFFF; /* Change text color */
+}
+.Muipopper-root {
+    background-color: #212121 !important; /* Change background color */
+    color: #FFFFFF; /* Change text color */
+}
+.MuiAutocomplete-popperdisableportal {
+    background-color: #212121 !important; /* Change background color */
+    color: #FFFFFF; /* Change text color */
+}
+.css-1rndd9j-Muipopper-root-MuiAutocomplete-popper{
+    background-color: #212121 !important; /* Change background color */
+    color: #FFFFFF; /* Change text color */ 
+}
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input.Mui-disabled {
+    
+    -webkit-text-fill-color: rgb(255 255 255 / 64%);
+}
+.MuiAutocomplete-hasPopupIcon.MuiAutocomplete-hasClearIcon.css-1h51icj-MuiAutocomplete-root .MuiOutlinedInput-root {
+    color: white !important;
+   
+}
+.css-ptkaw2-MuiDataGrid-root .MuiDataGrid-withBorderColor {
+    border-color: rgba(224, 224, 224, 1);
+    background-color: #212121 !important;
+}
+.css-1knaqv7-MuiButtonBase-root-MuiButton-root {
+    color: white !important;
+}
+.css-sghohy-MuiButtonBase-root-MuiButton-root {
+    color: #212121;
+    background-color: #ffffff;   
+}
+.css-dpjnhs-MuiInputBase-root-MuiOutlinedInput-root {
+    color: white !important;
+}
+
+
+/*Server*/
+.css-1lpukdo.Mui-disabled {
+    color: rgb(255 255 255 / 78%) !important;
+   
+    background-color: rgb(255 255 255 / 12%) !important;
+}
+.css-1v4ccyo.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: rgb(255 255 255) !important;
+}
+.css-1x5jdmq {
+    color: white !important;
+}
+.css-1v4ccyo.Mui-focused .MuiOutlinedInput-notchedOutline:hover {
+    border-color: rgb(255 255 255) !important;
+}
+.css-1x5jdmq:hover{
+    color: white !important;
+}
+.css-aop0yh {
+    color: white !important;
+}
+.css-1j7qk7u {
+    color: white !important;
+}
+.css-u0g51i > :nth-of-type(1) {
+    
+    color: white !important;
+}
+.css-1rtnrqa {
+    color: white !important;
+  } 
+  .css-1hw9j7s {
+    background-color: white !important;
+    color: #212121 !important;
+  }
+  .css-whi0l6:last-child {
+    color: white !important;
+   
+}
+.css-1deacqj.Mui-disabled {
+    color: white !important;
+}
+.css-1utq5rl {
+    color: white !important;
+}
+.css-1wkhih1 {
+    color: white !important; 
+}
+.css-14349d1 {
+    background-color: #212121 !important;
+}
+.css-aop0yh .MuiDataGrid-withBorderColor {
+  
+    background-color: #212121 !important;
+}
+.css-vubbuv {
+    color: white !important;
+}
+.css-18nc3u2 .MuiOutlinedInput-root .MuiAutocomplete-input {
+    color: white !important;
+    
+}
+.css-18nc3u2.Mui-focused .MuiAutocomplete-clearIndicator {
+    color: white;
+}
+.css-segi59.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: rgb(255 255 255) !important;
+}
+.css-segi59.Mui-focused .MuiOutlinedInput-notchedOutline:hover {
+    border-color: rgb(255 255 255) !important;
+}
+.css-igs3ac {
+    
+    border-color: rgb(255 255 255) !important;
+}
+.css-igs3ac:hover {
+    
+    border-color: rgb(255 255 255) !important;
+}
+.css-k58djc {
+    color: white !important;
+    border: 1px solid rgb(255, 255, 255) !important;
+}
+.css-k58djc:hover {
+    color: white !important;
+    border: 1px solid rgb(255, 255, 255) !important;
+}
+.css-1lpukdo {
+    color: #212121;
+background-color: rgb(255, 255, 255) !important;
+}
+.css-1lpukdo:hover {
+    color: #212121;
+background-color: rgb(255, 255, 255) !important;
+}
+.css-67l5gl:last-of-type {
+    background-color: #3b3939 !important;
+    color: white !important;
+}
+.css-1hof3tc {
+    color: white !important;
+}
+.css-b52kj1 {
+    color: white !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+  .popup_Dark{
+
+
+
+    .MuiDialogTitle-root + .css-1ty026z {
+        background-color: #212121;
+    }    
+.css-1x5jdmq.Mui-disabled {
+   
+    -webkit-text-fill-color: rgb(255 255 255 / 55%);
+}
+label {
+    color: white;
+    
+}
+.css-79xub:hover {
+    
+    border: 1px solid rgb(255 255 255) !important;
+    color: white !important;
+}
+.css-79xub {
+    
+    border: 1px solid rgb(255 255 255) !important;
+    color: white !important;
+}
+.css-9l3uo3 {
+    color: white !important;
+}
+
+
+.css-bdhsul-MuiTypography-root-MuiDialogTitle-root {
+    background-color: #000000;
+    color: #fff;
+    padding: 8px 24px !important;
+}
+.MuiDialogTitle-root+.css-ypiqx9-MuiDialogContent-root {
+    background-color: #212121;
+    color: white;
+}
+.css-sghohy-MuiButtonBase-root-MuiButton-root:hover {
+    color: #212121;
+    background-color: #ffffff;   
+}
+.css-ptkaw2-MuiDataGrid-root.MuiDataGrid-autoHeight {
+    height: auto;
+    color: white;
+}
+.css-ptiqhd-MuiSvgIcon-root {
+    color: white;
+}
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline{
+    border-color: rgb(255 255 255) !important;
+}
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+    color: white !important;
+}
+
+
+.css-rtrcn9-MuiTablePagination-root .MuiTablePagination-selectLabel {
+display: block;
+color: white;
+}
+.css-194a1fa-MuiSelect-select-MuiInputBase-input.css-194a1fa-MuiSelect-select-MuiInputBase-input.css-194a1fa-MuiSelect-select-MuiInputBase-input {
+padding-right: 24px;
+min-width: 16px;
+color: white;
+}
+.css-zylse7-MuiButtonBase-root-MuiIconButton-root.Mui-disabled {
+background-color: transparent;
+
+color: white !important;
+}
+.css-levciy-MuiTablePagination-displayedRows {
+color: white !important;
+
+}
+.css-pqjvzy-MuiSvgIcon-root-MuiSelect-icon {
+color: white !important;
+
+}
+.css-1mf6u8l-MuiSvgIcon-root-MuiSelect-icon {
+color: white !important;
+
+}
+.css-1w53k9d-MuiDataGrid-overlay{
+background-color: #212121 !important;
+}
+.css-i4bv87-MuiSvgIcon-root {
+color: white !important;
+}
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root:last-of-type {
+
+background-color: #3b3737;
+color: white;
+}
+.css-19qh8xo-MuiInputBase-input-MuiOutlinedInput-input {
+color: white !important;
+}
+
+.MuiAutocomplete-popper {
+background-color: #212121 !important; /* Change background color */
+color: #FFFFFF; /* Change text color */
+}
+.Muipopper-root {
+background-color: #212121 !important; /* Change background color */
+color: #FFFFFF; /* Change text color */
+}
+.MuiAutocomplete-popperdisableportal {
+background-color: #212121 !important; /* Change background color */
+color: #FFFFFF; /* Change text color */
+}
+.css-1rndd9j-Muipopper-root-MuiAutocomplete-popper{
+background-color: #212121 !important; /* Change background color */
+color: #FFFFFF; /* Change text color */ 
+}
+.css-knqc4i-MuiDialogActions-root {
+    background-color: #212121;
+}
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input.Mui-disabled {
+    
+    -webkit-text-fill-color: rgb(255 255 255 / 64%);
+}
+.MuiAutocomplete-hasPopupIcon.MuiAutocomplete-hasClearIcon.css-1h51icj-MuiAutocomplete-root .MuiOutlinedInput-root {
+    color: white !important;
+   
+}
+.css-1knaqv7-MuiButtonBase-root-MuiButton-root {
+    color: white !important;
+}
+.css-11qr2p8-MuiButtonBase-root-MuiButton-root.Mui-disabled {
+    color: rgb(255 255 255 / 72%);
+    box-shadow: none;
+    background-color: rgb(255 255 255 / 12%);
+}
+.css-1k23hlb-MuiButtonBase-root-MuiButton-root {
+
+    border: 1px solid rgb(255 255 255 / 50%) !important;
+    color: #ffffff !important;
+}
+.css-11qr2p8-MuiButtonBase-root-MuiButton-root {
+    color: #212121;
+background-color: #ffffff;
+}
+.css-11qr2p8-MuiButtonBase-root-MuiButton-root:hover {
+    color: #212121;
+    background-color: #ffffff;
+}
+.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+    border: 1px solid rgb(255 255 255 / 50%) !important;
+    color: #ffffff !important;
+}
+.css-sghohy-MuiButtonBase-root-MuiButton-root {
+    color: #212121;
+    background-color: #ffffff;
+}
+.css-sghohy-MuiButtonBase-root-MuiButton-root:hover {
+    color: #212121;
+    background-color: #ffffff;
+}
+/*Server*/
+.css-1v4ccyo.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: rgb(255 255 255) !important;
+}
+.css-1x5jdmq {
+    color: white !important;
+}
+.css-1v4ccyo.Mui-focused .MuiOutlinedInput-notchedOutline:hover {
+    border-color: rgb(255 255 255) !important;
+}
+.css-1x5jdmq:hover{
+    color: white !important;
+}
+.css-aop0yh {
+    color: white !important;
+}
+.css-1j7qk7u {
+    color: white !important;
+}
+.css-u0g51i > :nth-of-type(1) {
+    
+    color: white !important;
+}
+.css-1rtnrqa {
+    color: white !important;
+  } 
+  .css-1hw9j7s {
+    background-color: white !important;
+    color: #212121 !important;
+  }
+  .css-whi0l6:last-child {
+    color: white !important;
+   
+}
+.css-1deacqj.Mui-disabled {
+    color: white !important;
+}
+.css-1utq5rl {
+    color: white !important;
+}
+.css-1wkhih1 {
+    color: white !important; 
+}
+.css-14349d1 {
+    background-color: #212121 !important;
+}
+.css-aop0yh .MuiDataGrid-withBorderColor {
+  
+    background-color: #212121 !important;
+}
+.css-vubbuv {
+    color: white !important;
+}
+.css-18nc3u2 .MuiOutlinedInput-root .MuiAutocomplete-input {
+    color: white !important;
+    
+}
+.css-18nc3u2.Mui-focused .MuiAutocomplete-clearIndicator {
+    color: white;
+}
+.css-segi59.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: rgb(255 255 255) !important;
+}
+.css-segi59.Mui-focused .MuiOutlinedInput-notchedOutline:hover {
+    border-color: rgb(255 255 255) !important;
+}
+/* */
+.css-igs3ac {
+    
+    border-color: rgb(255 255 255) !important;
+}
+.css-igs3ac:hover {
+    
+    border-color: rgb(255 255 255) !important;
+}
+.css-k58djc {
+    color: white !important;
+    border: 1px solid rgb(255, 255, 255) !important;
+}
+.css-k58djc:hover {
+    color: white !important;
+    border: 1px solid rgb(255, 255, 255) !important;
+}
+.css-1lpukdo {
+    color: #212121;
+background-color: rgb(255, 255, 255) !important;
+}
+.css-1lpukdo:hover {
+    color: #212121;
+background-color: rgb(255, 255, 255) !important;
+}
+.css-ohyacs {
+    color: white !important;
+    background-color: black;
+    padding: 8px 24px !important;
+}
+.css-1vskg8q {
+    background-color: #212121;
+}
+
+
+  }
+  
+
+  .containerTransactions_Dark{
+    
+    width: 100% !important;
+   max-width: 100%;
+     /* margin-left:0.5rem; */
+    margin-right: 0px !important;
+   padding-right: 0px !important;
+
+.css-1086bdv-MuiPaper-root-MuiAccordion-root:last-of-type {
+    background-color: #2a2a2a !important;
+    color: white;
+}
+.css-1aj41gs:last-of-type {
+    background-color: #2a2a2a !important;
+    color: white !important;
+}
+   .css-ptkaw2-MuiDataGrid-root.MuiDataGrid-autoHeight {
+    height: auto;
+    color: white;
+}
+.css-1h51icj-MuiAutocomplete-root .MuiOutlinedInput-root .MuiAutocomplete-input {
+    color: white;
+}
+.css-ptiqhd-MuiSvgIcon-root {
+    color: white;
+}
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline{
+    border-color: rgb(255 255 255) !important;
+}
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+    color: white !important;
+}
+
+
+.css-rtrcn9-MuiTablePagination-root .MuiTablePagination-selectLabel {
+display: block;
+color: white;
+}
+.css-194a1fa-MuiSelect-select-MuiInputBase-input.css-194a1fa-MuiSelect-select-MuiInputBase-input.css-194a1fa-MuiSelect-select-MuiInputBase-input {
+padding-right: 24px;
+min-width: 16px;
+color: white;
+}
+.css-zylse7-MuiButtonBase-root-MuiIconButton-root.Mui-disabled {
+background-color: transparent;
+
+color: white !important;
+}
+.css-levciy-MuiTablePagination-displayedRows {
+color: white !important;
+
+}
+.css-pqjvzy-MuiSvgIcon-root-MuiSelect-icon {
+color: white !important;
+
+}
+.css-1mf6u8l-MuiSvgIcon-root-MuiSelect-icon {
+color: white !important;
+
+}
+.css-1w53k9d-MuiDataGrid-overlay{
+background-color: #212121 !important;
+}
+.css-i4bv87-MuiSvgIcon-root {
+color: white !important;
+}
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root:last-of-type {
+
+background-color: #3b3737;
+color: white;
+}
+.css-19qh8xo-MuiInputBase-input-MuiOutlinedInput-input {
+color: white !important;
+}
+
+.MuiAutocomplete-popper {
+background-color: #212121 !important; /* Change background color */
+color: #FFFFFF; /* Change text color */
+}
+.Muipopper-root {
+background-color: #212121 !important; /* Change background color */
+color: #FFFFFF; /* Change text color */
+}
+.MuiAutocomplete-popperdisableportal {
+background-color: #212121 !important; /* Change background color */
+color: #FFFFFF; /* Change text color */
+}
+.css-1rndd9j-Muipopper-root-MuiAutocomplete-popper{
+background-color: #212121 !important; /* Change background color */
+color: #FFFFFF; /* Change text color */ 
+}
+.css-knqc4i-MuiDialogActions-root {
+    background-color: #212121;
+}
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input.Mui-disabled {
+    
+    -webkit-text-fill-color: rgb(255 255 255 / 64%);
+}
+.MuiAutocomplete-hasPopupIcon.MuiAutocomplete-hasClearIcon.css-1h51icj-MuiAutocomplete-root .MuiOutlinedInput-root {
+    color: white !important;
+   
+}
+.css-1n4twyu-MuiInputBase-input-MuiOutlinedInput-input {
+    color: white !important;
+}
+.css-1o6z5ng {
+    color: white !important;
+}
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root.Mui-error .MuiOutlinedInput-notchedOutline {
+    border-color: #d32f2f !important;
+}
+.css-ptkaw2-MuiDataGrid-root .MuiDataGrid-withBorderColor {
+    border-color: rgba(224, 224, 224, 1);
+    /* background-color: #212121 !important; */
+}
+.css-1knaqv7-MuiButtonBase-root-MuiButton-root {
+    color: white !important;
+}
+.css-sghohy-MuiButtonBase-root-MuiButton-root {
+    color: #212121;
+    background-color: #ffffff;   
+}
+.css-sghohy-MuiButtonBase-root-MuiButton-root:hover {
+    color: #212121;
+    background-color: #ffffff;   
+}
+.css-dpjnhs-MuiInputBase-root-MuiOutlinedInput-root {
+    color: white !important;
+}
+
+.routeCardFeatures {
+    padding: 5px 0px;
+    background-color: #4d4949;
+}
+/*Server*/
+.css-1v4ccyo.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: rgb(255 255 255) !important;
+}
+.css-1x5jdmq {
+    color: white !important;
+}
+.css-1v4ccyo.Mui-focused .MuiOutlinedInput-notchedOutline:hover {
+    border-color: rgb(255 255 255) !important;
+}
+.css-1x5jdmq:hover{
+    color: white !important;
+}
+.css-aop0yh {
+    color: white !important;
+}
+.css-1j7qk7u {
+    color: white !important;
+}
+.css-u0g51i > :nth-of-type(1) {
+    
+    color: white !important;
+}
+.css-1rtnrqa {
+    color: white !important;
+  } 
+  .css-1hw9j7s {
+    background-color: white !important;
+    color: #212121 !important;
+  }
+  .css-whi0l6:last-child {
+    color: white !important;
+   
+}
+.css-1deacqj.Mui-disabled {
+    color: white !important;
+}
+.css-1utq5rl {
+    color: white !important;
+}
+.css-1wkhih1 {
+    color: white !important; 
+}
+.css-14349d1 {
+    background-color: #212121 !important;
+}
+.css-aop0yh .MuiDataGrid-withBorderColor {
+  
+    /* background-color: #212121 !important; */
+}
+.css-vubbuv {
+    color: white !important;
+}
+.css-18nc3u2 .MuiOutlinedInput-root .MuiAutocomplete-input {
+    color: white !important;
+    
+}
+.css-18nc3u2.Mui-focused .MuiAutocomplete-clearIndicator {
+    color: white;
+}
+.css-segi59.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: rgb(255 255 255) !important;
+}
+.css-segi59.Mui-focused .MuiOutlinedInput-notchedOutline:hover {
+    border-color: rgb(255 255 255) !important;
+}
+.css-igs3ac {
+    
+    border-color: rgb(255 255 255) !important;
+}
+.css-igs3ac:hover {
+    
+    border-color: rgb(255 255 255) !important;
+}
+.css-k58djc {
+    color: white !important;
+    border: 1px solid rgb(255, 255, 255) !important;
+}
+.css-k58djc:hover {
+    color: white !important;
+    border: 1px solid rgb(255, 255, 255) !important;
+}
+.css-1lpukdo {
+    color: #212121;
+background-color: rgb(255, 255, 255) !important;
+}
+.css-1lpukdo:hover {
+    color: #212121;
+background-color: rgb(255, 255, 255) !important;
+}
+.css-1lpukdo.Mui-disabled {
+    color: rgb(255 255 255 / 78%) !important;
+   
+    background-color: rgb(255 255 255 / 12%) !important;
+}
+.css-67l5gl:last-of-type {
+    background-color: #3b3939 !important;
+    color: white !important;
+}
+.css-1hof3tc {
+    color: white !important;
+}
+.css-b52kj1 {
+    color: white !important;
+}
+.css-vubbuv {
+    color: white;
+}
+
+
+
+
+
+ }
+
+
+ .noraml_Dark{
+    background-color: #000000;
+ }

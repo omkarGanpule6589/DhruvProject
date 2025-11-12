@@ -1,0 +1,537 @@
+[
+    
+   {
+      "text":"Application",
+      "path":"application"
+   },
+   
+   {
+      "text":"AQL Level",
+      "path":"aqllevel"
+   },
+   {
+      "text":"BOM",
+      "path":"bom"
+   },
+   {
+      "text":"Bonus Reason",
+      "path":"bonusreason"
+   },
+   {
+      "text": "Bonus Reason Group",
+      "path": "bonusreasongroup"
+  },
+   {
+      "text":"Buy Reason",
+      "path":"buyreason"
+   },
+   {
+      "text":"Carrier State Reason",
+      "path":"carrierstatereason"
+   },
+   {
+      "text":"Change Qty History",
+      "path":"changeqtyhistory"
+   },
+   {
+      "text":"Change State Reason",
+      "path":"changestatereason"
+   },
+   {
+      "text":"Defect Code",
+      "path":"defectcode"
+   },
+   {
+      "text":"UnitLevel",
+      "path":"unitlevel"
+   },
+   {
+      "text":"Customer",
+      "path":"customer"
+   },
+   {
+      "text":"Shift",
+      "path":"shift"
+   },
+   {
+      "text":"Calendar",
+      "path":"calendar"
+   },
+   {
+      "text": "Equipment Group",
+      "path": "equipmentgroup"
+      
+    },
+   {
+      "text":"Data Collection Def",
+      "path":"datacollectiondef"
+   },
+   {
+      "text":"Data Points",
+      "path":"datapoints"
+   },
+   {
+      "text":"Date Requirement",
+      "path":"daterequirement"
+   },
+   {
+      "text":"Email Notification",
+      "path":"emailnotification"
+   },
+   {
+      "text":"Digi Task",
+      "path":"digitask"
+   },
+   {
+      "text":"Digi Task List",
+      "path":"digitasklist"
+   },
+   {
+      "text":"Equipment",
+      "path":"equipment"
+   },
+   {
+      "text":"Equipment Family",
+      "path":"equipmentfamily"
+   },
+   {
+      "text":"Equipment Type",
+      "path":"equipmenttype"
+   },
+   {
+      "text":"Esig Cosign Reason",
+      "path":"esigcosignreason"
+   },
+   {
+      "text":"UOM",
+      "path":"uom"
+   },
+   {
+      "text":"Esig Meaning",
+      "path":"esigmeaning"
+   },
+   {
+      "text": "Product Group",
+      "path": "productgroup"
+   
+    },
+   {
+      "text":"Second Authentication",
+      "path":"secondauthentication"
+   },
+   {
+      "text":"Second Authentication Detail",
+      "path":"secondauthenticationdetail"
+   },
+   {
+      "text":"Esig Role Group",
+      "path":"esigrolegroup"
+   },
+   {
+      "text":"Factory",
+      "path":"factory"
+   },
+   {
+      "text":"Future Hold Details",
+      "path":"futureholddetails"
+   },
+   {
+      "text":"FutureHoldSetup",
+      "path":"futureholdsetup"
+   },
+   {
+      "text":"History MainLine",
+      "path":"historymainline"
+   },
+   {
+      "text":"Hold Reason",
+      "path":"holdreason"
+   },
+   {
+      "text":"Hold Release History",
+      "path":"holdreleasehistory"
+   },
+   {
+      "text":"Inspection Level",
+      "path":"inspectionlevel"
+   },
+   {
+      "text":"Usage Requirement",
+      "path":"usagerequirement"
+   },
+   {
+      "text":"Inventory Cabinet List",
+      "path":"inventorycabinetlist"
+   },
+   {
+      "text":"Inventory Location",
+      "path":"inventorylocation"
+   },
+   {
+      "text":"Inventory Rack List",
+      "path":"inventoryracklist"
+   },
+   {
+      "text":"Issue Difference Reason",
+      "path":"issuedifferencereason"
+   },
+   {
+      "text":"Component Issue Code",
+      "path":"componentissuecode"
+   },
+   {
+      "text":"Line",
+      "path":"line"
+   },
+   {
+      "text":"Log MetaData",
+      "path":"logmetadata"
+   },
+   {
+      "text":"Loss Reason",
+      "path":"lossreason"
+   },
+   {
+      "text":"LossReason Group",
+      "path":"lossreasongroup"
+   },
+   {
+      "text":"Maintenance Class",
+      "path":"maintenanceclass"
+   },
+   {
+      "text":"Maintenance Reason",
+      "path":"maintenancereason"
+   },
+   {
+      "text":"Process flow",
+      "path":"processflow"
+   },
+   {
+      "text":"Process flow",
+      "path":"processflow1"
+   },
+   {
+      "text":"Material List",
+      "path":"materiallist"
+   },
+   {
+      "text":"Move History",
+      "path":"movehistory"
+   },
+   {
+      "text":"MoveIn History",
+      "path":"moveinhistory"
+   },
+   {
+      "text":"Open Close History",
+      "path":"openclosehistory"
+   },
+   {
+      "text":"Operation",
+      "path":"operation"
+   },
+   {
+      "text":"Employee",
+      "path":"employee"
+   },
+   {
+      "text":"Department",
+      "path":"department"
+   },
+   {
+      "text":"Permission",
+      "path":"permission"
+   },
+   {
+      "text":"Print Label Def",
+      "path":"printlabeldef"
+   },
+   {
+      "text":"Print Queue",
+      "path":"printqueue"
+   },
+   {
+      "text":"Product",
+      "path":"product"
+   },
+   {
+      "text":"Work Instruction",
+      "path":"workinstruction"
+   },
+   {
+      "text":"Product Family",
+      "path":"productfamily"
+   },
+   {
+      "text":"Product Type",
+      "path":"producttype"
+   },
+   {
+      "text":"Qty Adjust Reason",
+      "path":"qtyadjustreason"
+   },
+   {
+      "text":"Recurring Date Requirement",
+      "path":"recurringdaterequirement"
+   },
+   {
+      "text":"Release Reason",
+      "path":"releasereason"
+   },
+
+   {
+      "text": "Rework Cofiguration",
+      "path": "reworkcofiguration"
+  },
+   {
+      "text":"Component Removal Reason",
+      "path":"componentremovalreason"
+   },
+   {
+      "text":"Remove Difference Reason",
+      "path":"removedifferencereason"
+   },
+   
+   {
+      "text":"Resource Maint History",
+      "path":"resourcemainthistory"
+   },
+   {
+      "text":"Equipment Status Code",
+      "path":"equipmentstatuscode"
+   },
+   {
+      "text":"Production Order",
+      "path":"productionorder"
+   },
+   {
+      "text":"Rework Reason",
+      "path":"reworkreason"
+   },
+   {
+      "text":"Role",
+      "path":"role"
+   },
+   {
+      "text":"Role Permission",
+      "path":"rolepermission"
+   },
+   {
+      "text":"Sample Data Point",
+      "path":"sampledatapoint"
+   },
+   {
+      "text":"Sample Test",
+      "path":"sampletest"
+   },
+   {
+      "text":"Sampling Plan",
+      "path":"samplingplan"
+   },
+   {
+      "text":"Scrap Reason",
+      "path":"scrapreason"
+   },
+   {
+      "text":"Sell Reason",
+      "path":"sellreason"
+   },
+   {
+      "text":"Shipping Reason",
+      "path":"shippingreason"
+   },
+   {
+      "text":"Split History",
+      "path":"splithistory"
+   },
+   {
+      "text":"Start History",
+      "path":"starthistory"
+   },
+   {
+      "text":"Start Reason",
+      "path":"startreason"
+   },
+   {
+      "text":"Equipment Status Model",
+      "path":"equipmentstatusmodel"
+   },
+   {
+      "text":"Supplier",
+      "path":"supplier"
+   },
+   {
+      "text":"Action Item",
+      "path":"actionitem"
+   },
+   {
+      "text":"Action List",
+      "path":"actionlist"
+   },
+   {
+      "text":"Tenant",
+      "path":"tenant"
+   },
+   {
+      "text":"Thruput Requirement",
+      "path":"thruputrequirement"
+   },
+   {
+      "text":"Training Requirement",
+      "path":"trainingrequirement"
+   },
+   {
+      "text":"Training Requirement Group",
+      "path":"trainingrequirementgroup"
+   },
+   {
+      "text":"Transaction Data",
+      "path":"transactiondata"
+   },
+   {
+      "text":"Transaction Meta Data",
+      "path":"transactionmetadata"
+   },
+   {
+     "text": "Business Unit",
+     "path": "businessunit"
+   } ,
+   {
+     "text": "Buy Reason Group",
+     "path": "buyreasongroup"
+   }
+   ,
+   {
+     "text": "Component Defect Reason",
+     "path": "componentdefectreason"
+   }
+   ,
+   {
+     "text": "Component Defect Reason group",
+     "path": "componentdefectreasongroup"
+   },
+   {
+     "text":"Component Replace Reason",
+     "path":"componentreplacereason"
+  },
+  {
+    "text":"Defect Code Group",
+    "path":"defectcodegroup"
+ },
+ {
+   "text":"Document",
+   "path":"document"
+},
+{
+  "text":"Document Group",
+  "path":"documentgroup"
+},
+{
+  "text":"Employee Group",
+  "path":"employeegroup"
+},
+{
+  "text":"Hold Location",
+  "path":"holdlocation"
+},
+{
+  "text":"Inventory Location",
+  "path":"InventoryLocation"
+},
+{
+  "text":"Numbering Rule",
+  "path":"numberingrule"
+},
+{
+  "text":"Operation Detail",
+  "path":"operationdetail"
+},
+{
+  "text":"Process flow Step",
+  "path":"processflowstep"
+},
+{
+  "text":"Production Order Type",
+  "path":"productionordertype"
+}
+,
+{
+ "text":"Production Order Status",
+ "path":"productionorderstatus"
+}
+,
+{
+ "text":"Qty Adjust Reason Group",
+ "path":"qtyadjustreasongroup"
+},
+{
+ "text":"Recurring Date Req CheckList",
+ "path":"recurringratereqcheckList"
+}
+,
+{
+ "text":"Rework Reason Group",
+ "path":"reworkreasongroup"
+},
+{
+ "text":"Sample Test Data Point",
+ "path":"sampletestdatapoint"
+}
+,
+{
+ "text":"Scrap Reason",
+ "path":"scrapreason"
+},
+{
+ "text":"Sell Reason Group",
+ "path":"sellreasongroup"
+}
+,
+{
+ "text":"Shipping Reason Group",
+ "path":"shippingreasongroup"
+},
+{
+ "text":"Substitute Reason",
+ "path":"substitutereason"
+}
+,
+{
+ "text":"Supplier Item",
+ "path":"supplieritem"
+}
+,
+{
+ "text":"Usage Req CheckList",
+ "path":"usagereqchecklist"
+}
+,
+{
+ "text":"UsageRequirement",
+ "path":"usagerequirement"
+},
+{
+   "text":"Test and Trial",
+   "path":"testandtrial"
+  },
+  {
+   "text":"Thruput Requirement",
+   "path":"thruputrequirement"
+  },
+  {
+   "text":"FocoVision Label Configuration",
+   "path":"focoVisionLabelConfiguration"
+  }
+  ,
+  {
+   "text":"Monthend Reconciliation Report",
+   "path":"monthendreconciliationreport"
+  }
+ 
+  
+
+  
+
+ 
+]

@@ -1,0 +1,19 @@
+.negative-value-cell {
+    background-color: #dc0000 !important; 
+    color: black;
+  }
+  
+  .positive-value-cell {
+    background-color: #fadc5a !important; 
+    color: black;
+  }
+  .zero-value-cell{
+    background-color: #0a9b00 !important;
+    color: black;
+  }
+
+  .backdrop {
+    z-index: 999;
+    background-color: '#fff',
+    
+  }

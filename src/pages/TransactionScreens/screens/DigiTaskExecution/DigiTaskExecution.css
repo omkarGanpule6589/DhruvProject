@@ -1,0 +1,21 @@
+.taskListDesign {    
+    border: 1px solid lightgrey;
+    height: 56vh;
+    overflow-y: auto;
+    padding-bottom: 9px;
+}
+
+.taskDescriptionDesign {
+    border: 1px solid lightgrey;
+}
+
+.testDesign {
+    margin: 10px 10px;
+    width: 85vw;
+    overflow-x: auto;
+}
+.backdrop {
+    z-index: 999;
+    background-color: '#fff',
+    
+  }

@@ -1,0 +1,122 @@
+[
+    
+    {
+       "text":"Start Transaction",
+       "path":"starttransaction"
+    },
+    {
+      "text":"starttransactionlevel2",
+      "path":"starttransactionlevel2"
+   },
+    {
+       "text":"Move",
+       "path":"move"
+    },
+    {
+      "text":"RouteCard Inward",
+      "path":"Inward"
+   },
+    {
+       "text":"Move Non Std",
+       "path":"movenonstd"
+    },
+    {
+       "text":"Hold",
+       "path":"hold"
+    },
+    {
+       "text":"Release",
+       "path":"release"
+    },
+    {
+      "text":"Combine RouteCard",
+      "path":"combine"
+      
+   },
+   {
+      "text":"Split Routecard",
+      "path":"split"
+   },
+   {
+     "text":"Combine Qty",
+     "path":"combineqty"
+  },
+  {
+     "text":"Split Qty",
+     "path":"splitqty"
+  },
+    {
+       "text":"Rework",
+       "path":"rework"
+    },
+    {
+       "text":"Change Qty",
+       "path":"changeqty"
+    },
+    {
+       "text":"Digitask Execution",
+       "path":"digitaskexecution"
+    },
+    {
+       "text":"Data Collection",
+       "path":"datacollection"
+    },
+    {
+       "text":"Component Issue",
+       "path":"componentissue"
+    },
+    {
+       "text":"Component Remove",
+       "path":"componentremove"
+    },
+    {
+       "text":"Component Replace",
+       "path":"componentreplace"
+    },
+    {
+       "text":"Associate",
+       "path":"associate"
+    },
+    {
+       "text":"Disassociate",
+       "path":"disassociate"
+    },
+    {
+       "text":"Open",
+       "path":"open"
+    },
+    {
+       "text":"Close",
+       "path":"close"
+    },
+    {
+       "text":"Multi Hold",
+       "path":"multihold"
+    },
+    {
+       "text":"Multi Release",
+       "path":"multirelease"
+    },
+    {
+        "text":"RouteCard Maintenance",
+        "path":"routecardmaintainence"
+     },
+     {
+      "text":"Jobcard Summary",
+      "path":"JobcardSummary"
+   },
+
+   {
+      "text": "Lens Raw Material Creation",
+     "path": "lensRawMaterialCreation"
+   },
+     
+   {
+      "text": "Lens Fused Button Creation",
+      "path": "lensFusedButtonCreation"
+   }
+   
+
+
+     
+]

@@ -1,0 +1,7 @@
+.success-notification {
+  z-index: 1050; /* Higher z-index for success */
+}
+
+.error-notification {
+  z-index: 1040; /* Lower z-index for error */
+}

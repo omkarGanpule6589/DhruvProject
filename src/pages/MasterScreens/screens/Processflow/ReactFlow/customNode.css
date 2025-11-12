@@ -1,0 +1,18 @@
+.text-updater-node {
+    height: 50px;
+    /* border: 1px solid #5f5e5e; */
+    padding: 5px;
+    border-radius: 5px;
+    width: 200px;
+    /* background-color: #1b1b1b; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .text-updater-node label {
+    display: block;
+    color: #777;
+    font-size: 12px;
+  }
+  

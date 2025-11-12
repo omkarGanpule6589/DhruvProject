@@ -1,0 +1,367 @@
+[
+  {
+      "text": "Action List",
+      "path": "actionlist"
+  },
+  {
+      "text": "AQL Level",
+      "path": "aqllevel"
+  },
+  {
+      "text": "BOM",
+      "path": "bom"
+  },
+  
+  
+  {
+      "text": "Business Unit",
+      "path": "businessunit"
+  },
+  {
+      "text": "Buy Reason",
+      "path": "buyreason"
+  },
+ 
+  {
+    "text": "Gain Reason",
+    "path": "bonusreason"
+},
+  {
+      "text": "Buy Reason Group",
+      "path": "buyreasongroup"
+  },
+  {
+      "text": "Carrier State Reason",
+      "path": "carrierstatereason"
+  },
+  {
+      "text": "Change State Reason",
+      "path": "changestatereason"
+  },
+  {
+      "text": "Component Defect Reason",
+      "path": "componentdefectreason"
+  },
+  {
+      "text": "Component Defect Reason group",
+      "path": "componentdefectreasongroup"
+  },
+  {
+    "text": "Component Issue Code",
+    "path": "componentissuecode"
+},
+  {
+      "text": "Component Removal Reason",
+      "path": "componentremovalreason"
+  },
+  {
+      "text": "Component Replace Reason",
+      "path": "componentreplacereason"
+  },
+  {
+      "text": "Customer",
+      "path": "customer"
+  },
+  {
+      "text": "Data Collection Def",
+      "path": "datacollectiondef"
+  },
+  {
+      "text": "Date Requirement",
+      "path": "daterequirement"
+  },
+  {
+      "text": "Defect Code",
+      "path": "defectcode"
+  },
+  {
+      "text": "Defect Code Group",
+      "path": "defectcodegroup"
+  },
+  {
+      "text": "Department",
+      "path": "department"
+  },
+  {
+      "text": "Digi Task",
+      "path": "digitask"
+  },
+  {
+      "text": "Document",
+      "path": "document"
+  },
+  {
+      "text": "Document Group",
+      "path": "documentgroup"
+  },
+  {
+    "text": "Email Notification",
+    "path": "emailnotification"
+},
+  {
+      "text": "Employee",
+      "path": "employee"
+  },
+  {
+      "text": "Employee Group",
+      "path": "employeegroup"
+  },
+  {
+      "text": "Equipment",
+      "path": "equipment"
+  },
+  {
+      "text": "Equipment Family",
+      "path": "equipmentfamily"
+  },
+  {
+      "text": "Equipment Status Code",
+      "path": "equipmentstatuscode"
+  },
+  {
+      "text": "Equipment Status Model",
+      "path": "equipmentstatusmodel"
+  },
+  {
+      "text": "Equipment Type",
+      "path": "equipmenttype"
+  },
+  {
+      "text": "Esig Cosign Reason",
+      "path": "esigcosignreason"
+  },
+  {
+      "text": "Esig Meaning",
+      "path": "esigmeaning"
+  },
+  {
+      "text": "Esig Role Group",
+      "path": "esigrolegroup"
+  },
+  {
+      "text": "Factory",
+      "path": "factory"
+  },
+  {
+      "text": "Future Hold Setup",
+      "path": "futureholdsetup"
+  },
+  {
+    "text": "Gain Reason",
+    "path": "bonusreason"
+},
+{
+  "text": "Gain Reason Group",
+  "path": "bonusreasongroup"
+},
+  {
+      "text": "Hold Location",
+      "path": "holdlocation"
+  },
+  {
+      "text": "Hold Reason",
+      "path": "holdreason"
+  },
+  {
+      "text": "Inspection Level",
+      "path": "inspectionlevel"
+  },
+  {
+      "text": "Inventory Location",
+      "path": "InventoryLocation"
+  },
+  {
+      "text": "Issue Difference Reason",
+      "path": "issuedifferencereason"
+  },
+  {
+      "text": "Loss Reason",
+      "path": "lossreason"
+  },
+  {
+      "text": "Loss Reason Group",
+      "path": "lossreasongroup"
+  },
+  {
+      "text": "Maintenance Class",
+      "path": "maintenanceclass"
+  },
+  {
+      "text": "Maintenance Reason",
+      "path": "maintenancereason"
+  },
+  {
+      "text": "Numbering Rule",
+      "path": "numberingrule"
+  },
+  {
+      "text": "Operation",
+      "path": "operation"
+  },
+  {
+      "text": "Operation Detail",
+      "path": "operationdetail"
+  },
+  {
+      "text": "Permission",
+      "path": "permission"
+  },
+  {
+      "text": "Print Label Def",
+      "path": "printlabeldef"
+  },
+  {
+      "text": "Print Queue",
+      "path": "printqueue"
+  },
+  {
+      "text": "Process flow",
+      "path": "processflow"
+  },
+  {
+      "text": "Process flow Step",
+      "path": "processflowstep"
+  },
+  {
+      "text": "Product",
+      "path": "product"
+  },
+  {
+      "text": "Product Family",
+      "path": "productfamily"
+  },
+  {
+      "text": "Product Type",
+      "path": "producttype"
+  },
+  {
+      "text": "Production Order",
+      "path": "productionorder"
+  },
+  {
+      "text": "Production Order Status",
+      "path": "productionorderstatus"
+  },
+  {
+      "text": "Production Order Type",
+      "path": "productionordertype"
+  },
+  {
+      "text": "Qty Adjust Reason",
+      "path": "qtyadjustreason"
+  },
+  {
+      "text": "Qty Adjust Reason Group",
+      "path": "qtyadjustreasongroup"
+  },
+  {
+      "text": "Recurring Date Requirement",
+      "path": "recurringdaterequirement"
+  },
+  {
+      "text": "Release Reason",
+      "path": "releasereason"
+  },
+  {
+      "text": "Remove Difference Reason",
+      "path": "removedifferencereason"
+  },
+  
+  {
+      "text": "Rework Reason",
+      "path": "reworkreason"
+  },
+  {
+    "text": "Rework Configuration",
+    "path": "reworkcofiguration"
+},
+  {
+      "text": "Rework Reason Group",
+      "path": "reworkreasongroup"
+  },
+  {
+    "text": "Role",
+    "path": "role"
+},
+  {
+      "text": "Sampling Plan",
+      "path": "samplingplan"
+  },
+  {
+      "text": "Sample Data Point",
+      "path": "sampledatapoint"
+  },
+  {
+      "text": "Sample Test",
+      "path": "sampletest"
+  },
+  {
+      "text": "Scrap Reason",
+      "path": "scrapreason"
+  },
+  {
+      "text": "Second Authentication",
+      "path": "secondauthentication"
+  },
+  {
+      "text": "Sell Reason",
+      "path": "sellreason"
+  },
+  {
+      "text": "Sell Reason Group",
+      "path": "sellreasongroup"
+  },
+  {
+    "text": "Shift",
+    "path": "shift"
+},
+  {
+      "text": "Shipping Reason",
+      "path": "shippingreason"
+  },
+  {
+      "text": "Shipping Reason Group",
+      "path": "shippingreasongroup"
+  },
+  {
+      "text": "Start Reason",
+      "path": "startreason"
+  },
+  {
+      "text": "Substitute Reason",
+      "path": "substitutereason"
+  },
+  {
+      "text": "Supplier",
+      "path": "supplier"
+  },
+  {
+      "text": "Thruput Requirement",
+      "path": "thruputrequirement"
+  },
+  
+  {
+      "text": "Training Requirement",
+      "path": "trainingrequirement"
+  },
+  {
+      "text": "Training Requirement Group",
+      "path": "trainingrequirementgroup"
+  },
+  {
+      "text": "Unit Level",
+      "path": "unitlevel"
+  },
+  {
+      "text": "UOM",
+      "path": "uom"
+  },
+  {
+      "text": "Usage Requirement",
+      "path": "usagerequirement"
+  },
+  {
+    "text": "Work Instruction",
+    "path": "workinstruction"
+}
+]

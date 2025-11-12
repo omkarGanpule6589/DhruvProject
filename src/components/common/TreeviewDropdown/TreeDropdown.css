@@ -1,0 +1,133 @@
+/*DropDown */
+.tag-item .search {
+    border-bottom:0px !important
+  }
+  .tag {
+    background-color:white !important;
+    border: 1px solid #ffffff !important;
+  }
+  .radio-item{
+    display: none !important;
+  }
+  .react-dropdown-tree-select .dropdown .dropdown-content {
+    width: 100% !important;
+  }
+  .react-dropdown-tree-select .dropdown .dropdown-content {
+   
+    height: 190px;
+    overflow: auto;
+    z-index: 0;
+  }
+  .done-icon::before {
+    content: "\2713"; /* Unicode for check mark */
+    font-family: 'Material Icons';
+    position: relative;
+    /* right: -85%; */
+    position: relative;
+    right: -4%; /* Reset the alignment */
+    margin-right: 12px; /* Adjust the spacing as needed */
+   
+  }
+  .empty-icon::before {
+      content: "\2003";  
+     /* content: "";   */
+    font-family: 'Material Icons';
+    position: relative;
+    position: relative;
+    right: -85%; /* Reset the alignment */
+    margin-right: 8px; /* Adjust the spacing as needed */
+    /* right: -80%; */
+   
+  }
+  
+  
+  .react-dropdown-tree-select .dropdown .dropdown-trigger.arrow {
+   
+    width: 100% !important;
+    border-radius: 4px !important;
+  }
+  .react-dropdown-tree-select .dropdown .dropdown-trigger {
+    padding: 4px;
+    padding-top: 0px !important;
+    line-height: unset !important;
+    /* padding-bottom: 28px; */
+    /* line-height: 5px; */
+    max-height: 40px !important;
+    
+    overflow: hidden !important;
+    border: 1px solid #b9b9b9;
+    height: 5.4vh;
+  }
+  .react-dropdown-tree-select .dropdown .dropdown-trigger.arrow.bottom:after {
+    content: "\25BC";
+    vertical-align: middle;
+    color: #7b7878 !important;
+   
+   
+    font-size: 12px !important;
+    /* height: 1px !important; */
+  
+  
+   
+     position: absolute;
+  
+    right: 0;
+    margin-top: 6px;
+    margin-right: 16px !important;
+  }
+  .react-dropdown-tree-select .dropdown .dropdown-trigger.arrow.top:after {
+  
+  
+    /* margin-left: 91% !important; */
+    font-size: 12px !important;
+    color: #7b7878 !important;
+    position: absolute;
+  
+   
+     
+  
+    right: 0;
+    margin-top: 6px;
+    margin-right: 16px !important;
+  }
+  .tag-remove {
+    color: #747474 !important;
+    font-size: 100% !important;
+    
+  
+    font-weight: bolder;
+    position: absolute;
+  
+    right: 0;
+   
+    margin-right: 40px;
+  }
+  .nodeselected{
+    
+    background-color: rgba(25, 118, 210, 0.12) !important;
+    .node.focused {
+        background-color: transparent !important;
+    }
+  }
+  .toggle.collapsed:after {
+    
+  
+     font-weight: bolder;
+     padding-right: 10px;
+  
+    
+  }
+  .toggle.expanded:after {
+    
+    font-weight: bolder;
+    padding-right: 10px;
+    
+    
+  }
+  .node>label {
+   font-size: 15px;
+   margin-left: 0px;
+  }
+  .react-dropdown-tree-select .dropdown {
+    width: 100%;
+  }

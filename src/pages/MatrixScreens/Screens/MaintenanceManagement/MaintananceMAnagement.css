@@ -1,0 +1,11 @@
+.row-pending {
+    background-color: yellow; /* Color for IsPending */
+}
+
+.row-due {
+    background-color: orange; /* Color for IsDue */
+}
+
+.row-past-due {
+    background-color: red; /* Color for IsPastDue */
+}

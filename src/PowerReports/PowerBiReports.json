@@ -1,0 +1,87 @@
+[
+    {
+        "text": "Delivery Performance Report",
+        "path": "deliveryperformancereport",
+        "permission": "DeliveryPerformanceReport"
+    },
+    {
+        "text": "Month End Reconciliation Report",
+        "path": "monthendreconciliationreport",
+        "permission": "MonthendReconclilationReport"
+    },
+{
+    "text": "Order Status Report",
+    "path": "orderstatusreport",
+    "permission": "OrderStatusReport"
+},
+
+{
+    "text": "Packing Report",
+    "path": "PackingReport",
+    "permission": "PackingReport"
+},
+
+
+{
+    "text": "Production Report",
+    "path": "productionReport",
+    "permission": "ProductionReport"
+},
+{
+    "text": "QC Report",
+    "path": "QAReport",
+    "permission": "QCReport"
+},
+{
+    "text": "QOH Button Report",
+    "path": "qohbuttonreport",
+    "permission": "QOHButtonReport"
+},
+
+
+{
+    "text": "Reissue Report",
+    "path": "reissuereport",
+    "permission": "ReissueReport"
+},
+{
+    "text": "Route Card History Report",
+    "path": "routecardhistory",
+    "permission": "RouteCardHistoryReport"
+},
+{
+    "text": "Sales Plan",
+    "path": "salesplanreport",
+    "permission": "SalesPlanReport"
+},
+{
+    "text": "Scrap Report",
+    "path": "scrapreport",
+    "permission": "ScrapReport"
+},
+
+{
+    "text": "Stock Report",
+    "path": "stockreport",
+    "permission": "StockReport"
+},
+{
+    "text": "Stock Valuation Report",
+    "path": "stockvaluationreport",
+    "permission": "StockValuationReport"
+},
+{
+    "text": "Supplier Performance Report",
+    "path": "supplierperformancereport",
+    "permission": "SupplierPerformanceReport"
+},
+
+{
+    "text": "Wip  Report",
+    "path": "Wipsummary",
+    "permission": "WipSummaryReport"
+}
+
+
+
+]

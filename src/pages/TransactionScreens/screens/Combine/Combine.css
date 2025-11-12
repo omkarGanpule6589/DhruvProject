@@ -1,0 +1,23 @@
+.disabled-row {
+    pointer-events: none; 
+    background-color: #8080801a; 
+  }
+  .status-icon-active {
+    background-color: #008000;
+  }
+  
+  .status-icon-close {
+    background-color: #000000;
+  }
+  
+  .status-icon-hold {
+    background-color:#800000;
+  }
+  
+  .status-icon {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    border-radius: 4px;
+    margin-right: 8px;
+  }

@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.textCenter{
+text-align: center;
+}
+
+.active-link {
+    background-color: #c71212; /* Change the background color as needed */
+    color: rgb(194, 19, 19);
+  }
+  

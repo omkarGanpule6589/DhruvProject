@@ -1,0 +1,135 @@
+[
+    
+    {
+       "text":"StartTransaction",
+       "path":"starttransaction"
+    },
+    {
+      "text":"Start Two Level Transaction",
+      "path":"starttransactionlevel2"
+   },
+    
+    {
+       "text":"Move",
+       "path":"move"
+    },
+    {
+      "text":"RouteCard Inward",
+      "path":"Inward"
+   },
+    {
+       "text":"MoveNonStd",
+       "path":"movenonstd"
+    },
+    {
+       "text":"Hold",
+       "path":"hold"
+    },
+    {
+       "text":"Release",
+       "path":"release"
+    },
+    {
+       "text":"combineroutecard",
+       "path":"combine"
+      
+    },
+    {
+       "text":"splitroutecard",
+       "path":"split"
+    },
+    {
+      "text":"combineqty",
+      "path":"combineqty"
+   },
+   {
+      "text":"splitqty",
+      "path":"splitqty"
+   },
+    {
+       "text":"Rework",
+       "path":"rework"
+    },
+    {
+       "text":"ChangeQty",
+       "path":"changeqty"
+    },
+    {
+       "text":"DigiTaskExecution",
+       "path":"digitaskexecution"
+    },
+    {
+       "text":"DataCollection",
+       "path":"datacollection"
+    },
+    {
+       "text":"ComponentIssue",
+       "path":"componentissue"
+    },
+    {
+       "text":"ComponentRemove",
+       "path":"componentremove"
+    },
+    {
+       "text":"Component Replace",
+       "path":"componentreplace"
+    },
+    {
+       "text":"Associate",
+       "path":"associate"
+    },
+    {
+      "text":"Reprint",
+      "path":"Reprint"
+   },
+    {
+       "text":"Disassociate",
+       "path":"disassociate"
+    },
+    {
+       "text":"Open",
+       "path":"open"
+    },
+    {
+       "text":"Close",
+       "path":"close"
+    },
+    {
+       "text":"MultiHold",
+       "path":"multihold"
+    },
+    {
+       "text":"MultiRelease",
+       "path":"multirelease"
+    },
+    {
+        "text":"RouteCard Maintainence",
+        "path":"routecardmaintainence"
+     },
+     {
+      "text": "RouteCards By Order",
+      "path": "RouteCardsByOrder"
+    },
+     {
+      "text": "FG-Inward",
+      "path": "FGInWard"
+    },
+    {
+      "text": "Jobcard Summary",
+      "path": "JobcardSummary"
+    },
+    {
+      "text": "Lens Raw Material Creation",
+      "path": "lensRawMaterialCreation"
+     
+    },
+    {
+      "text": "Lens Fused Button Creation",
+      "path": "lensFusedButtonCreation"
+   },
+      {
+         "text": "Re Print Barcodes",
+         "path": "ReprintBarcodes"
+      }
+    
+]
